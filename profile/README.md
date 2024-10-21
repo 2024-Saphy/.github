@@ -1,14 +1,14 @@
-<div align=center>
   
-# ![SaphyLogoSmall](https://github.com/user-attachments/assets/9045a1f9-2325-4b0a-83da-99539f5bea2f)
-
-<img src="https://github.com/user-attachments/assets/92ad0a4f-efe3-4b49-9c8b-2cede9b84bc4" alt="splash-left" width="300px">
-
+![SaphyLogoSmall](https://github.com/user-attachments/assets/9045a1f9-2325-4b0a-83da-99539f5bea2f)
 
 ## **중고 전자기기** 거래 플랫폼 : SAPHY
-현재 많은 중고 거래 시장이 활성화되어 있습니다. 
+> <b>판매자와 구매자 모두가 신뢰할 수 있는</b> 전자기기 중고 거래 플랫폼
 <br>
-그런데, 전자기기의 경우 비교적 고가의 상품이 많으며, 기기의 기술적인 결함이 눈에 보이지 않는 경우가 많아 사기의 위험이 큽니다.
+
+![홍보 이미지 1](https://github.com/user-attachments/assets/5ec04c62-d418-4158-b3cf-ff0396b39edf)
+
+<br>
+전자기기의 경우 비교적 고가의 상품이 많으며, 기기의 기술적인 결함이 눈에 보이지 않는 경우가 많아 사기의 위험이 큽니다.
 <br>
 그래서 중고 제품 또한 높은 가치를 가지고 있음에도 불구하고 원활하게 중고 거래가 이루어지지 않고 있습니다.
 <br>
@@ -16,19 +16,22 @@
 
 
 ## 🌟 주요 기능
-### 제품 판매
-Saphy는 중고로 전자기기를 판매하고자 하는 많은 사람들에게 더욱 간편한 수단을 제공합니다.
+<table>
+  <tr>
+    <th>제품 판매</th>
+    <td>애플리케이션 개발 및 배포 시 여러 플랫폼에서 이를 가능할 수 있도록 도와주는 크로스 플랫폼 프레임워크를 사용했습니다.</td>
+  </tr>
+  <tr>
+    <th>제품 구매</th>
+    <td>플러터 프레임워크에서 사용되는 다트 언어를 사용했습니다.</td>
+  </tr>
+  
+</table>
 
-### 제품 구매
 
-### 수리 센터
+## 💻 기술 스택
 
-
-
-
-# 💻 기술 스택
-
-<h2 >Frontend 🏪</h2>
+### Frontend 🏪
 <table>
   <tr>
     <th>Flutter</th>
@@ -40,7 +43,7 @@ Saphy는 중고로 전자기기를 판매하고자 하는 많은 사람들에게
   </tr>
 </table>
 
-<h2 >Backend 🚚</h2>
+### Backend 🚚
 <table>
   <tr>
     <th>Flutter</th>
@@ -52,14 +55,23 @@ Saphy는 중고로 전자기기를 판매하고자 하는 많은 사람들에게
   </tr>
 </table>
 
-<h2 >Devops 🚚</h2>
-
+### Devops 🚚 
+<table>
+  <tr>
+    <th>Flutter</th>
+    <td>애플리케이션 개발 및 배포 시 여러 플랫폼에서 이를 가능할 수 있도록 도와주는 크로스 플랫폼 프레임워크를 사용했습니다.</td>
+  </tr>
+  <tr>
+    <th>Dart</th>
+    <td>플러터 프레임워크에서 사용되는 다트 언어를 사용했습니다.</td>
+  </tr>
+</table>
 
 
 
 
 ## 🛠️ 팀원 소개
-<table>
+<table >
 <tr>
   <td colspan=4 align=center>Backend</td>
     <tr>
@@ -92,5 +104,4 @@ Saphy는 중고로 전자기기를 판매하고자 하는 많은 사람들에게
 
 
 ## 🤝 문의 및 지원
-</div>
 
