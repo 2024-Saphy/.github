@@ -86,7 +86,7 @@
 </table>
 
 
-### Devops 🚚 
+### Devops ⚙️ 
 <table>
   <tr>
     <th>기술</th>
